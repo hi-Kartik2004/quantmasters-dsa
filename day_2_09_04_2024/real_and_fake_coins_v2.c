@@ -44,10 +44,15 @@ int main(){
     int sum_with_all_real_coins = n*real_coin_weight;
 
     if(total_weight_of_the_bag > sum_with_all_real_coins){
+        int diff = total_weight_of_the_bag - sum_with_all_real_coins;
+        printf("The fake coin is %d\n", real_coin_weight + diff);
         printf("Fake coin is heavier\n");
     }else if(total_weight_of_the_bag < sum_with_all_real_coins){
+        int diff = total_weight_of_the_bag - sum_with_all_real_coins;
+        printf("The fake coin is %d\n", real_coin_weight + diff);
         printf("Fake coin is lighter");
     }else{
+        printf("The fake coin is %d\n", real_coin_weight);
         printf("Cannot determine\n");
     }
 
