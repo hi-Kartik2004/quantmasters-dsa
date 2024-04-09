@@ -18,4 +18,4 @@
 
 [Solution to real and fake coins](./real_and_fake_coins.c)
 
-[Solution to Real and Fake coins (Maths)](./day_2_09_04_2024/real_and_fake_coins_v2.c)
+[Solution to Real and Fake coins (Maths)](./real_and_fake_coins_v2.c)
