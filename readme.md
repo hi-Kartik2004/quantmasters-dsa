@@ -25,3 +25,4 @@ Solutions
 1. [Solution to Orac's Number theory (Maths)](./day_2_09_04_2024/oracs_number_theory.c)
 2. [Solution to Alternating disks (Maths)](./day_2_09_04_2024/alternating_disks.c)
 3. [Solution to Real and Fake coins (Maths)](./day_2_09_04_2024/real_and_fake_coins.c)
+4. [Solution to Real and Fake coins (Maths)](./day_2_09_04_2024/real_and_fake_coins_v2.c)
