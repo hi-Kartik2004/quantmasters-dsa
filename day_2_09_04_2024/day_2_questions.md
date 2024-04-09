@@ -11,3 +11,9 @@
 ![Alternating disks question](image-1.png)
 
 [Solution to Alternating disks](./alternating_disks.c)
+
+## Real and Fake coins
+
+![Real and fake coins question](image-2.png)
+
+[Solution to real and fake coins](./real_and_fake_coins.c)
