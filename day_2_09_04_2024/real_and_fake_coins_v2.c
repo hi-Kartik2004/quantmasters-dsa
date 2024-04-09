@@ -19,7 +19,7 @@ int main(){
     if(a1 == a2 && a2 == a3){
         real_coin_weight = a1;
     }else if(a1 == a2 && a2 != a3){
-        // the fake coin is among the first 3 memebers of the array (lucky case)
+        // the fake coin is among the first 3 members of the array (lucky case)
         // fake coin is a3
         if(a1 > a3){
             printf("Fake coin is lighter\n");

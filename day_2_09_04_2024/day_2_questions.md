@@ -19,3 +19,5 @@
 [Solution to real and fake coins](./real_and_fake_coins.c)
 
 [Solution to Real and Fake coins (Maths)](./day_2_09_04_2024/real_and_fake_coins_v2.c)
+
+5. [Solution to Blind Real and Fake coins](./blind_real_and_fake_coins.md)
